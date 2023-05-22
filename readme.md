@@ -22,7 +22,7 @@
 ## Usage
 
 ````
-git clone https://lab.ssafy.com/s08-final/S08P31A802.git
+git clone https:/github.com/jongseok-oh/JALJARA.git
 
 이후 exec폴더의 포팅메뉴얼을 따라 진행
 
